@@ -1,5 +1,4 @@
 *vim-toop.txt*  Easily map operations over text-objects
-*toop*
 
 Author:  Jean Carlo Machado <https://jeancarlomachado.net/>:
 
